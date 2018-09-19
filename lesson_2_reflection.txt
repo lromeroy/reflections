@@ -24,3 +24,5 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+-Automatic marging can do all the job whenever both codes have changes in different files, but when you merge manually you can choose
+wich one of the versions of the same file mantein. 
