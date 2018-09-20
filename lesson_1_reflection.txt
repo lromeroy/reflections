@@ -1,58 +1,45 @@
-How did viewing a diff between two versions of a file help you see the bug that
+1.Now that you have your workspace set up, what do you want to try using Git for?
+
+	Fill in your answer here
+
+
+2.How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    
-Fill in your answer here
+   	Fill in your answer here
+   	- It helped me to see directly the changes made an the difference between both files.
 
-- It helped me to see directly the changes made an the difference between both files.
-
-How could having easy access to the entire history of a file make you a more 
+3.How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
-Fill in your answer here
 
-- That allows me to have all the changes tracked and organized, and it make it easier to work with other people on the same project.
+    Fill in your answer here
+    - That allows me to have all the changes tracked and organized, and it make it easier to work with other people on the same project.
 
-What do you think are the pros and cons of manually choosing when to create a
+4.What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
+    Fill in your answer here
+    - A pro will be that i can choose whenever i think the change in the code is meaninful and necessary, in the other hand googledocs will save the file automatically either i need it or not, making the versions confusing to track.
 
-Fill in your answer here
+5.Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
 
+    Fill in your answer here
 
+6.How can you use the commands git log and git diff to view the history of files?
 
-- A pro will be that i can choose whenever i think the change in the code is meaninful and necessary, in the other hand googledocs will save the file
-automatically either i need it or not, making the versions confusing to track.
+    Fill in your answer here
+    -git log shows the entire history of file changes and git diff compares two versions and displays the changes made.
 
-How can you use the commands git log and git diff to view the history of files?
-
-    
-Fill in your answer here
-
--git log shows the entire history of file changes and git diff compares two versions and displays the changes made.
-
-
-
-How might using version control make you more confident to make changes that
+7.How might using version control make you more confident to make changes that
 could break something?
 
-   
-Fill in your answer here
+    Fill in your answer here
+
+8.Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
 
 
-Now that you have your workspace set up, what do you want to try using Git for?
-
-    
-Fill in your answer here
-
-
-What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions 
-automatically saved, like Google Docs does?
-Fill in your answer here
-
-
-Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
-Fill in your answer here
-
-- Because Git was made with the porpouse of making code and projects more organized, and the others systems are focused in documents and other stuff.
 
