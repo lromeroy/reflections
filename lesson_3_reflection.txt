@@ -26,3 +26,4 @@
 6.When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
     Fill in your answer here
+    -When i need to work in a new feature that can take a long time or need to be worked a long the master branch is updated or maybe if a bug is being fixed you will want to have the master branch with the working version of the project or maybe add a different mode o version of the code, this is very helpful because multiple aspect of the project can be worked on at the same time.t
