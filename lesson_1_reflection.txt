@@ -1,6 +1,7 @@
 1.Now that you have your workspace set up, what do you want to try using Git for?
 
 	Fill in your answer here
+    -I want to commit some changes and compare them both so i can compare them later
 
 
 2.How did viewing a diff between two versions of a file help you see the bug that
@@ -26,6 +27,7 @@ docs does?
 files in one commit, while others, like Google Docs, treat each file separately?
 
     Fill in your answer here
+    -Because git is focus on projects that need to have the option of comparing the versions and can have bugs and problems and need to have extra data of the changes made in them that means it gave you some extra features that can come handy in the managment of your projects.
 
 6.How can you use the commands git log and git diff to view the history of files?
 
@@ -36,10 +38,5 @@ files in one commit, while others, like Google Docs, treat each file separately?
 could break something?
 
     Fill in your answer here
-
-8.Now that you have your workspace set up, what do you want to try using Git for?
-
-    Fill in your answer here
-
-
+    -Because if i make a mistake i can easily go back in the previous version and compare them to see what was the change that introduced the problem.
 
